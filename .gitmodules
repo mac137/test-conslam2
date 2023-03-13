@@ -1,0 +1,6 @@
+[submodule "pp_alvium_driver_dataset"]
+	path = pp_alvium_driver_dataset
+	url = https://github.com/mac137/pp_alvium_driver_dataset.git
+[submodule "velodyne"]
+	path = velodyne
+	url = https://github.com/mac137/velodyne
